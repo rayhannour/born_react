@@ -1,0 +1,23 @@
+{
+    "country": "CGPR COVID-19",
+    "provaince": {        
+          "VACCINER": 111659,
+          "ACCEPTER NON VACCINER": 15858 ,
+          "REFUE VACCINER": 15858       ,
+          "ATTENTE": 15858       
+      },
+    "timeline": {
+      "femeles": {
+        "VACCINER": 300,
+        "ACCEPTER NON VACCINER": 200,
+        "REFUE VACCINER": 300,
+        "ATTENTE":2000
+      },
+      "males": {
+        "VACCINER": 840,
+        "ACCEPTER NON VACCINER": 150,
+        "REFUE VACCINER": 200,
+        "ATTENTE":400
+      }
+    }
+  }

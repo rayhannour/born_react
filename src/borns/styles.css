@@ -1,0 +1,17 @@
+
+  
+  .simple-keyboard-arrows {
+    max-width: 850px;
+    color: black;
+    font-size: 25px;    
+    background-color: none;
+    background: none;
+  }
+  
+  .simple-keyboard-arrows-numpad {
+    max-width: 550px;
+    color: black;
+    font-size: 25px;    
+    background-color: none;
+    background: none;
+  }
